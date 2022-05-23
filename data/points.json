@@ -1,0 +1,68 @@
+{
+    "solo": [
+        {
+            "key": "Solo",
+            "nbPlayers": 1,
+            "points": 6,
+            "pointsplus": 3,
+            "maxplus": 2
+        },
+        {
+            "key": "Abondance",
+            "nbPlayers": 1,
+            "points": 18,
+            "pointsplus": 3,
+            "maxplus": 2
+        },
+        {
+            "key": "Petite misère",
+            "nbPlayers": 1,
+            "points": 12
+        },
+        {
+            "key": "Grande misère",
+            "nbPlayers": 1,
+            "points": 24
+        },
+        {
+            "key": "Grande misère sur table/trou",
+            "nbPlayers": 1,
+            "points": 36
+        },
+        {
+            "key": "Petit chelem",
+            "nbPlayers": 1,
+            "points": 75
+        },
+        {
+            "key": "Grand chelem",
+            "nbPlayers": 1,
+            "points": 150
+        }
+    ],
+    "duo": [
+        {
+            "key": "Embalage",
+            "nbPlayers": 2,
+            "points": 4,
+            "pointsplus": 1,
+            "maxplus": 5
+        },
+        {
+            "key": "Embalage noir",
+            "nbPlayers": 2,
+            "points": 16
+        },
+        {
+            "key": "Trou",
+            "nbPlayers": 2,
+            "points": 8,
+            "nonDoubleLoss": true
+        },
+        {
+            "key": "Trou noir",
+            "nbPlayers": 2,
+            "points": 16
+        }
+    ]
+}
